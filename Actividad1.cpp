@@ -10,7 +10,7 @@ int main ()
     {
         PORTB |= (1<<5) ; //Le asigno un 1 a la salida al pin 5 del puerto B
         _delay_ms(500) ;
-        PORTB |= ~(1<<5) ; //Le asigno un 0 a la salida al pin 5 del puerto B
+        PORTB &= ~(1<<5) ; //Le asigno un 0 a la salida al pin 5 del puerto B
         _delay_ms(500) ;
     }
 }
