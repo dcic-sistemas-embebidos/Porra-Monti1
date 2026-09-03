@@ -20,7 +20,7 @@ void loop() {
     if (lecturaActual == 0 && estadoAnterior == 1) {
         
         // Ejecutamos la acción única: Invertir el LED
-        PORTB ^= (1 << ); 
+        PORTB ^= (1 << 2); 
         
     }
 }
