@@ -17,7 +17,7 @@ void setup() {
 
 void loop() {
     // 1. Leemos el estado "crudo" actual del pin
-    uint8_t lecturaCruda = (PIND & (1 << 2)) ? 1 : 0;
+    uint8_t lecturaCruda = (PIND & (1 << 2)) ? 1 : 0;//esto es pulling 
 
     // 2. Si hubo CUALQUIER cambio (sea ruido de rebote o que apretaste de verdad)
     if (lecturaCruda != ultimoEstadoLeido) {
