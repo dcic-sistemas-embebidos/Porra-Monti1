@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
-// //actividad 2 a
+// //actividad 2 
 void setup() {
     // Configurar Pin 2 (PD2) como ENTRADA (0)
     DDRD &= ~(1 << 2);
