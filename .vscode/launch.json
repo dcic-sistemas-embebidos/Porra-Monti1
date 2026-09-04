@@ -12,9 +12,9 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
-            "executable": "C:/Users/sebas/OneDrive/Documentos/PlatformIO/Projects/Actividad4.3Seba/.pio/build/btatmega328/firmware.elf",
+            "executable": "C:/Users/casa/Desktop/Sistemas-Embebidos/Porra-Monti1/.pio/build/btatmega328/firmware.elf",
             "projectEnvName": "btatmega328",
-            "toolchainBinDir": "C:/Users/sebas/.platformio/packages/toolchain-atmelavr/bin",
+            "toolchainBinDir": "C:/Users/casa/.platformio/packages/toolchain-atmelavr/bin",
             "internalConsoleOptions": "openOnSessionStart",
             "preLaunchTask": {
                 "type": "PlatformIO",
@@ -25,18 +25,18 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
-            "executable": "C:/Users/sebas/OneDrive/Documentos/PlatformIO/Projects/Actividad4.3Seba/.pio/build/btatmega328/firmware.elf",
+            "executable": "C:/Users/casa/Desktop/Sistemas-Embebidos/Porra-Monti1/.pio/build/btatmega328/firmware.elf",
             "projectEnvName": "btatmega328",
-            "toolchainBinDir": "C:/Users/sebas/.platformio/packages/toolchain-atmelavr/bin",
+            "toolchainBinDir": "C:/Users/casa/.platformio/packages/toolchain-atmelavr/bin",
             "internalConsoleOptions": "openOnSessionStart"
         },
         {
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (without uploading)",
-            "executable": "C:/Users/sebas/OneDrive/Documentos/PlatformIO/Projects/Actividad4.3Seba/.pio/build/btatmega328/firmware.elf",
+            "executable": "C:/Users/casa/Desktop/Sistemas-Embebidos/Porra-Monti1/.pio/build/btatmega328/firmware.elf",
             "projectEnvName": "btatmega328",
-            "toolchainBinDir": "C:/Users/sebas/.platformio/packages/toolchain-atmelavr/bin",
+            "toolchainBinDir": "C:/Users/casa/.platformio/packages/toolchain-atmelavr/bin",
             "internalConsoleOptions": "openOnSessionStart",
             "loadMode": "manual"
         }

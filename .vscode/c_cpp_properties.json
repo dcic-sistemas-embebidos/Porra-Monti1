@@ -8,29 +8,29 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/sebas/OneDrive/Documentos/PlatformIO/Projects/Actividad4.3Seba/include",
-                "C:/Users/sebas/OneDrive/Documentos/PlatformIO/Projects/Actividad4.3Seba/src",
-                "C:/Users/sebas/.platformio/packages/framework-arduino-avr/cores/arduino",
-                "C:/Users/sebas/.platformio/packages/framework-arduino-avr/variants/standard",
-                "C:/Users/sebas/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
-                "C:/Users/sebas/.platformio/packages/framework-arduino-avr/libraries/HID/src",
-                "C:/Users/sebas/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
-                "C:/Users/sebas/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
-                "C:/Users/sebas/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "C:/Users/casa/Desktop/Sistemas-Embebidos/Porra-Monti1/include",
+                "C:/Users/casa/Desktop/Sistemas-Embebidos/Porra-Monti1/src",
+                "C:/Users/casa/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/casa/.platformio/packages/framework-arduino-avr/variants/standard",
+                "C:/Users/casa/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/casa/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/casa/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/casa/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/casa/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                 ""
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/sebas/OneDrive/Documentos/PlatformIO/Projects/Actividad4.3Seba/include",
-                    "C:/Users/sebas/OneDrive/Documentos/PlatformIO/Projects/Actividad4.3Seba/src",
-                    "C:/Users/sebas/.platformio/packages/framework-arduino-avr/cores/arduino",
-                    "C:/Users/sebas/.platformio/packages/framework-arduino-avr/variants/standard",
-                    "C:/Users/sebas/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
-                    "C:/Users/sebas/.platformio/packages/framework-arduino-avr/libraries/HID/src",
-                    "C:/Users/sebas/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
-                    "C:/Users/sebas/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
-                    "C:/Users/sebas/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "C:/Users/casa/Desktop/Sistemas-Embebidos/Porra-Monti1/include",
+                    "C:/Users/casa/Desktop/Sistemas-Embebidos/Porra-Monti1/src",
+                    "C:/Users/casa/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/casa/.platformio/packages/framework-arduino-avr/variants/standard",
+                    "C:/Users/casa/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/casa/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/casa/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/casa/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/casa/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                     ""
                 ]
             },
@@ -45,7 +45,7 @@
             ],
             "cStandard": "gnu11",
             "cppStandard": "gnu++11",
-            "compilerPath": "C:/Users/sebas/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerPath": "C:/Users/casa/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
             "compilerArgs": [
                 "-mmcu=atmega328p",
                 ""
